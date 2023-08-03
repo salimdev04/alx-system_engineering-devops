@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "SartWars IV episode started..."
+telnet towel.blinkenlights.nl
